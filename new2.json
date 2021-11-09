@@ -1,5 +1,10 @@
 {"name":"Ivanov Ivan Ivanovich",
 	"agg":"42",
 	"pets":"0",
-	"wanted salary":"1000000$"
+	"wanted_salary":"1000000$",
+ "My_favorite_film":"Wedding_in_Malinovka",
+"My_favorite_TV_series":"Friends",
+"My_favorit_food":"Dumplings",
+"My_favorit_season":"Summer",
+"I_want_vizit":"Brazilia" 
 }
