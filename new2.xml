@@ -3,6 +3,11 @@
 	<NAME>Ivanov Ivan Ivanovich</NAME>
 	<AGE>42</AGE>
 	<pets>0</pets>
-	<wanted_salary>1000000$</wanted_salary>	
+	<wanted_salary>1000000$</wanted_salary>
+	<film>Wedding in Malinovka</film>
+        <TV_series>Friends</TV_series>
+        <food>Dumplings</food>
+        <season>Summer</season>
+        <vizit>Brazilia</visit> 
 
 </I_am>
