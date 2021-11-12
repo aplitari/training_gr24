@@ -1,0 +1,7 @@
+ Пояснения к дз№ 2(2) группа 24 Мунгалова Н.А. 
+
+
+
+ 14. Добавить и закоммитить “new2.txt” одной строчкой.      git add . && git commit -am "changed new2.txt"  
+ 15. Добавить и закоммитить “new2.json” одной строчкой.     git add . && git commit -am "changed new2.json" 
+ 18. Добавить и закоммитить “new2.xml” одной строчкой.      git add . && git commit -am "changed new2.xml"
